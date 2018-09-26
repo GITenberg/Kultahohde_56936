@@ -1,0 +1,37 @@
+_repo: Kultahohde_56936
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: Translations of selected stories from "Lost face."
+gutenberg_issued: '2018-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56936'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Adventure stories, American -- Translations into Finnish'
+- !lcsh 'Short stories'
+- !lcsh 'American fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: Kultahohde -- Luottamustehtävä -- Nolattu -- El-Soo.
+title: Kultahohde
+url: http://www.gutenberg.org/ebooks/56936
